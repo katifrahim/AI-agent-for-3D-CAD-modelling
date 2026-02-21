@@ -14,7 +14,7 @@ CadQuery MCP Server exposes the full CadQuery Python library as a [Model Context
 
 ## Demo
 
-### Video
+### Video [Click the image]
 
 [![Demo Video - AI agents creating a 3D gear from scratch](demo/gear.png)](https://youtu.be/TlQVlgVZJVA)
 
