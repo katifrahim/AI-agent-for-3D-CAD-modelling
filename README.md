@@ -10,7 +10,7 @@ Autonoma is the most capable open-source AI agent for 3D mechanical design. Desc
 
 The closest competitor is [Zoo.dev's Text-to-CAD](https://zoo.dev/text-to-cad) -- closed-source and commercialized. Autonoma is open-source and, I believe, more capable.
 
-> Autonoma received an investment offer of **$130K SAFE at $5M valuation** from Humanoid Global Holdings ($130K for 2.6% equity).
+> Autonoma received an investment offer of **$130K SAFE at $5M valuation** from [Humanoid Global Holdings](https://www.humanoidglobal.ai/) ($130K for 2.6% equity).
 
 ## Key Features
 
